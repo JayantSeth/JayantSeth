@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JayantSeth
-- 👀 I’m interested in python, django, node.js, AWS, GCP, ruby on rails and Go.
-- 🌱 I’m currently learning Ruby On Rails
+- 👀 I’m interested in python, node.js, react, GCP and Go.
+- 🌱 I’m currently learning flask & react
 - 📫 How to reach me: You can reach me on my personal email ID: jayant.seth94@outlook.com
 
 <!---
